@@ -1,0 +1,15 @@
+/* file  type:- this is c program .
+  objective:- this is a c program which tell the user to enter two integers and give the sum of the two numbers.
+  author:-samiyal massy. 
+  date:-25 aug 2018   * \
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+int a,b;
+printf("\n enter the first number");
+printf("\n  enter the second number");
+getch();
+printf("\n the sum of the two enterted numbers\n");
+return a+b;
+}
